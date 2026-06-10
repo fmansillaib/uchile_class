@@ -49,44 +49,6 @@ uchile_class/
 
 ---
 
-## 📖 Descripción de Módulos
-
-### 1. **Business Analytics** 
-**Objetivo:** Aplicaciones prácticas de analytics en contextos empresariales
-
-- **Clase 1:** Introducción a Business Analytics
-- **Clase 2:** Riesgo de Crédito - Evaluación y modelado
-- **Clase 3:** Pronósticos de Negocio (Business Forecast)
-- **Clase 4:** Optimización de Portafolios
-- **Clase 6a:** Riesgo de Mercado
-- **Clase 6b:** Algoritmos de Trading
-
----
-
-### 2. **Analítica Financiera**
-**Objetivo:** Análisis profundo de mercados financieros y estrategias de inversión
-
-#### Módulos:
-- **m1_casos_negocios** - Casos de estudio y análisis de negocios financieros
-- **m2_algorithm_trading** - Desarrollo de algoritmos de trading
-- **m3_riesgo_crédito** - Modelado y análisis de riesgo de crédito
-- **m4_riesgo_mercado** - Gestión y medición de riesgo de mercado
-- **m5_assets_pricing** - Valoración de activos financieros
-
----
-
-### 3. **Riesgo Financiero**
-**Objetivo:** Curso especializado en gestión y análisis de riesgo financiero
-
-- **Clase 1 a 5** - Temas progresivos en riesgo financiero:
-  - Introducción a conceptos fundamentales
-  - Medidas de riesgo
-  - VaR (Value at Risk)
-  - Simulaciones
-  - Aplicaciones prácticas
-
----
-
 ## 🎯 Contenido Típico
 
 Cada clase/módulo contiene generalmente:
@@ -122,9 +84,3 @@ Cada clase/módulo contiene generalmente:
 **Franco A. Mansilla Ibáñez** - Universidad de Chile
 - Website: https://www.francomansilla.com
 - Email: fmansillaib@uchile.cl
-
----
-
-## 📅 Última Actualización
-
-Junio 5, 2026
