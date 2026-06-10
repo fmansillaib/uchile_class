@@ -49,36 +49,6 @@ uchile_class/
 
 ---
 
-## 🎯 Contenido Típico
-
-Cada clase/módulo contiene generalmente:
-
-- 📓 **Notebooks Jupyter** (.ipynb) - Ejemplos prácticos y demostraciones
-- 🐍 **Código Python** (.py) - Scripts y funciones reutilizables
-- 📊 **Datos** (.xlsx, .csv) - Bases de datos para ejercicios
-- 📄 **Documentación** - Explicaciones y teoría
-
----
-
-## 🚀 Casos de Uso
-
-| Módulo | Área | Aplicación |
-|--------|------|-----------|
-| **Business Analytics** | Empresarial | Análisis de crédito, pronósticos, optimización |
-| **Analítica Financiera** | Mercados | Trading, valuación, gestión de portafolios |
-| **Riesgo Financiero** | Riesgo | Medición y control de riesgos |
-
----
-
-## 📝 Notas
-
-- Los materiales están organizados por módulo y clase
-- Cada carpeta contiene recursos de aprendizaje progresivo
-- Se incluyen ejemplos prácticos y bases de datos reales
-- Los notebooks incluyen explicaciones detalladas
-
----
-
 ## 👤 Autor
 
 **Franco A. Mansilla Ibáñez** - Universidad de Chile
